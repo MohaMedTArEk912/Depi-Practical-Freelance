@@ -1,0 +1,534 @@
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\appsettings.Development.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\appsettings.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.staticwebassets.endpoints.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.exe
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.deps.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.runtimeconfig.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.pdb
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Azure.Core.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Azure.Identity.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Humanizer.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNet.Identity.Core.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\Scalar.AspNetCore.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.ClientModel.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.CodeDom.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Memory.Data.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.csproj.AssemblyReference.cache
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.AssemblyInfoInputs.cache
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.AssemblyInfo.cs
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.sourcelink.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\scopedcss\bundle\BackEnd.styles.css
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.build.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.development.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets\msbuild.build.BackEnd.props
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.pack.json
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.csproj.Up2Date
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\refint\BackEnd.dll
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.pdb
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.genruntimeconfig.cache
+D:\2-Mozakra\1-SWE 22-26\Year 3\Semester 2\Internet Application\project\IA-library-management-system\BackEnd\obj\Debug\net9.0\ref\BackEnd.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\appsettings.Development.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\appsettings.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.staticwebassets.endpoints.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.exe
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.deps.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.runtimeconfig.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\BackEnd.pdb
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Azure.Core.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Azure.Identity.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Humanizer.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNet.Identity.Core.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\Scalar.AspNetCore.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.ClientModel.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.CodeDom.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Memory.Data.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.csproj.AssemblyReference.cache
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.AssemblyInfoInputs.cache
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.AssemblyInfo.cs
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.sourcelink.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\scopedcss\bundle\BackEnd.styles.css
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.build.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.development.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.csproj.Up2Date
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\refint\BackEnd.dll
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.pdb
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\BackEnd.genruntimeconfig.cache
+D:\2-Mozakra\Projects\IA-library-management-system\BackEnd\obj\Debug\net9.0\ref\BackEnd.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.AssemblyInfo.cs
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\BackEnd.staticwebassets.endpoints.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\appsettings.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\BackEnd.exe
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\BackEnd.deps.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\BackEnd.runtimeconfig.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\BackEnd.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\BackEnd.pdb
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\scopedcss\bundle\BackEnd.styles.css
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.csproj.Up2Date
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\refint\BackEnd.dll
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.pdb
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\BackEnd.genruntimeconfig.cache
+C:\Users\lolko7ol\Documents\Downloads\Gig\BackEnd\obj\Debug\net9.0\ref\BackEnd.dll

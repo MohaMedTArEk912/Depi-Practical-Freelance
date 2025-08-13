@@ -1,0 +1,97 @@
+:root {
+  --primary-color: #8B5CF6;
+  --primary-light: #A78BFA;
+  --primary-dark: #6D28D9;
+  --background-start: #F5F3FF;
+  --background-end: #EDE9FE;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--background-start), var(--background-end));
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.auth-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.auth-box {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 40px;
+  box-shadow: 0 8px 32px rgba(139, 92, 246, 0.15);
+  width: 100%;
+  max-width: 400px;
+  animation: fadeIn 0.6s ease-out, slideUp 0.6s ease-out;
+}
+
+.form-field {
+  margin-bottom: 20px !important;
+}
+
+.form-field .MuiOutlinedInput-root {
+  transition: transform 0.2s ease;
+}
+
+.form-field .MuiOutlinedInput-root:hover {
+  transform: translateY(-2px);
+}
+
+.form-field .MuiOutlinedInput-root.Mui-focused {
+  transform: translateY(-2px);
+}
+
+.auth-button {
+  background: linear-gradient(45deg, var(--primary-dark), var(--primary-color)) !important;
+  transition: all 0.3s ease !important;
+}
+
+.auth-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3) !important;
+}
+
+.auth-title {
+  color: var(--primary-dark);
+  margin-bottom: 24px !important;
+  text-align: center;
+  font-weight: 600 !important;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+/* Purple theme for input fields */
+.MuiTextField-root {
+  width: 100%;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: var(--primary-color) !important;
+}
+
+.MuiInputLabel-root.Mui-focused {
+  color: var(--primary-color) !important;
+}
